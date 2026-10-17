@@ -30,7 +30,7 @@
   "types": "./interface.d.ts",
   "engines": {
     "node": ">=12 <19"
-  },
+  }
   "lint-staged": {
     "*.js": [
       "eslint --fix",
